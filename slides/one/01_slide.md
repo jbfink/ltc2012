@@ -1,5 +1,5 @@
 !SLIDE 
-# My Presentation #
+# Bringing Makers into the Library: Digital Humanities, Hackerspaces, and the new DIY #
 
 !SLIDE bullets incremental
 # Bullet Points #
