@@ -19,6 +19,9 @@
 # Why academic and public? #
 .notes Different institutions that nevertheless have commonality. Both face a sea change in their operations -- rise of internet, wikipedia, decline in traditional metrics like ref. But c.f. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3257492/ - "dawning of the Great Age of Librarians" - particularly how after printing press completely messed up libraries in that era. The Internet is that printing press.
 
+!SLIDE
+# a note on DIY #
+
 
 !SLIDE bullets incremental
 # Bullet Points #
