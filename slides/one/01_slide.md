@@ -32,6 +32,16 @@
 
 .notes unlab with drumpad.
 
+!SLIDE center full-page
+![img/IMG_20120228_142621a.jpg](img/IMG_20120228_142621a.jpg)
+
+.notes unlab mame cabinet.
+
+!SLIDE center full-page
+![img/IMG_20120228_142658a.jpg](img/IMG_20120228_142658a.jpg)
+
+.notes unlab with canadian flag
+
 !SLIDE bullets incremental
 # Bullet Points #
 
