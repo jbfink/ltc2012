@@ -27,7 +27,9 @@
 # a note on DIY #
 .notes The rise of the hackerspace and the sort-of analagous rise of DH 
 
-!SLIDE
+!SLIDE center
+![img/IMG_20120228_142610.jpg](img/IMG_20120228_142610.jpg)
+.notes unlab with drumpad.
 
 !SLIDE bullets incremental
 # Bullet Points #
