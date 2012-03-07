@@ -42,6 +42,11 @@
 
 .notes unlab with canadian flag
 
+!SLIDE center full-page
+![img/50561808.jpg](img/50561808.jpg)
+
+.notes arduino
+ 
 !SLIDE bullets incremental
 # Bullet Points #
 
