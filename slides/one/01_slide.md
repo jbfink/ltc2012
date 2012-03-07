@@ -9,7 +9,7 @@
 
 !SLIDE
 # Who am I? #
-.notes brief history. *real* brief. Don't be like you-know-who.
+.notes brief history. *real* brief. Don't be like you-know-who. Talk about yourself in context of diy. mention your dad's hijinx (the gummer, setting fire to the manhole, maybe the blinky box)
 
 !SLIDE
 # Who are you? #
