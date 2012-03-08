@@ -16,6 +16,10 @@
 .notes Ask audience distribution, e.g., public vs academic vs other? Ask them why they came to the talk. Remind them that if they want to see *any* other talk go and see it and come see you afters. git clone! 
 
 !SLIDE
+# Go away! #
+.notes entire dev history on github. complain about multi-track cons. offer to talk people's ears off afterwards
+
+!SLIDE
 # INTERRUPT ME #
 .notes Nothing would thrill me more than having this turn from "sage on the stage" to an open conversation.
 
