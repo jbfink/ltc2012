@@ -3,7 +3,7 @@
 
 !SLIDE small
 # John Fink #
-# Digital Technologies Development Librarian #
+# Digital Scholarship Librarian #
 # McMaster University #
 .notes breathe.
 
