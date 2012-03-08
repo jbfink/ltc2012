@@ -1,1 +1,10 @@
-{ "name": "My Preso", "sections": [ {"section":"one"} ]}
+[
+  {"section":"intro"},
+  {"section":"what-is-diy"},
+  {"section":"public-libraries"},
+  {"section":"academic-libraries},
+  {"section":"culture"},
+  {"section":"scds"},
+  {"section":"how-to-get-involved"}
+]
+
