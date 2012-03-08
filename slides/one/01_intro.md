@@ -27,22 +27,22 @@
 # a note on DIY #
 .notes The rise of the hackerspace and the sort-of analagous rise of DH 
 
-!SLIDE center full-page
+!SLIDE center
 ![img/IMG_20120228_142610a.jpg](img/IMG_20120228_142610a.jpg)
 
 .notes unlab with drumpad.
 
-!SLIDE center full-page
+!SLIDE center 
 ![img/IMG_20120228_142621a.jpg](img/IMG_20120228_142621a.jpg)
 
 .notes unlab mame cabinet.
 
-!SLIDE center full-page
+!SLIDE center
 ![img/IMG_20120228_142658a.jpg](img/IMG_20120228_142658a.jpg)
 
 .notes unlab with canadian flag
 
-!SLIDE center full-page
+!SLIDE center 
 ![img/50561808.jpg](img/50561808.jpg)
 
 .notes arduino
